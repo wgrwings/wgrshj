@@ -1,0 +1,5 @@
+$(function(){
+  $("#goToRegi").click(function() {
+    
+  });
+})
